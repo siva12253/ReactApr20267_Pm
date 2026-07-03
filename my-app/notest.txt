@@ -1,0 +1,14 @@
+React - React is frontend library 
+
+React is completly made up of JSX - Javascript XML - Combination of Javascript and HTML
+
+
+Componenets -reusable jsx functions 
+
+functional and class component 
+
+hooks - we can achive lifecycle methods 
+
+Props and state -  
+
+Props - properties 
