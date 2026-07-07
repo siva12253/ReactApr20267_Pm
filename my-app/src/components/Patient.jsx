@@ -1,16 +1,13 @@
 import React from "react";
 
 export default function Patient(props) {
-  // const {name, hosName} = props; 
+  // const {name, hosName} = props;
 
   const { patientInfo } = props;
-  const {name, hosName} = props; 
+  const { name, hospitalName } = patientInfo;
 
+  const text = `Hi, i am ${name}, i am a patient from ${hospitalName} hospital`;
 
-
-  const text = `Hi, i am ${name}, i am a patient from ${hosName} hospital`;
- 
-   
   return (
     <>
       <h1>patient - patients records</h1>

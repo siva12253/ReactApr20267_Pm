@@ -9,6 +9,10 @@ functional and class component
 
 hooks - we can achive lifecycle methods 
 
-Props and state -  
+Props and state 
 
 Props - properties 
+
+Conditional rendering 
+
+List 
