@@ -45,6 +45,10 @@ updating the state in object
 update the state in array
 
 
+useEffect 
+
+React form 
+
 
 
 

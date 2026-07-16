@@ -2,6 +2,8 @@ import ClientList from "./components/ClientList";
 import Employee from "./components/Employee";
 import FavoriteColor from "./components/FavoriteColor";
 import Hospital from "./components/Hospital";
+import ReactForm from "./components/ReactForm";
+import Stopwatch from "./components/Stopwatch";
 
 function App() {
   return (
@@ -10,7 +12,9 @@ function App() {
       {/* <Hospital/> */}
       {/* <FavoriteColor /> */}
       {/* <Employee/> */}
-      <ClientList/>
+      {/* <ClientList/> */}
+      {/* <Stopwatch/> */}
+      <ReactForm/>
     </>
   );
 }
